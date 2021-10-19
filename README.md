@@ -36,4 +36,10 @@ This builds a easylap-0.0.1.tar.gz file under dist. Copy the file to the Raspber
 pip3 install easylap-0.0.1.tar.gz
 ```
 
+To start the server, run
+
+```
+easylapd
+```
+
 To start at boot time, modify `/etc/rc.local`. See: [Run a program at startup](https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/).
