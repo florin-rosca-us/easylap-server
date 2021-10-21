@@ -1,5 +1,5 @@
-easylap
-=======
+easylap-server
+==============
 
 A server for sending data from a [EasyLAP RC timing device](http://www.myezlap.com/store/index.html?language=en) over the local network. Advertises a service via [Bonjour (mDNS)](https://en.wikipedia.org/wiki/Multicast_DNS) and sends data via UDP to a [EasyLap iOS client](https://github.com/florin-rosca-us/EasyLap).
 
