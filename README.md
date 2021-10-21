@@ -28,6 +28,7 @@ iOS 14 adds an extra level of security that makes it harder for iOS apps to send
 ### Requirements
 * Python 3.7 (should match the current version of Python on Raspbian).
 * `pipenv`
+* [Eclipse](https://www.eclipse.org/) with [pydev](https://www.pydev.org/) for development.
 
 ### Building
 
