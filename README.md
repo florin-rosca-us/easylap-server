@@ -1,7 +1,7 @@
 easylap-server
 ==============
 
-A server for sending data from a [EasyLAP RC timing device](http://www.myezlap.com/store/index.html?language=en) over the local network. Advertises a service via [Bonjour (mDNS)](https://en.wikipedia.org/wiki/Multicast_DNS) and sends data via UDP to a [EasyLap iOS client](https://github.com/florin-rosca-us/EasyLap).
+A Python server for sending data from a [EasyLAP RC timing device](http://www.myezlap.com/store/index.html?language=en) over the local network. Advertises a service via [Bonjour (mDNS)](https://en.wikipedia.org/wiki/Multicast_DNS) and sends data via UDP to a [EasyLap iOS client](https://github.com/florin-rosca-us/EasyLap).
 
 # Background
 [Kyosho MiniZ](http://kyosho.com/mini-z-info/) are awesome remote control (RC) cars that [can race](https://www.youtube.com/watch?v=bLIlTpBr_Ls).
